@@ -25,7 +25,7 @@
     border: 2px solid black;
     color: white;
     padding-left: 10px;
-    height: 37cm;
+    height: 39cm;
     width: 9cm;
     border-bottom-left-radius: 20px;
     border-top-left-radius: 20px;
@@ -40,7 +40,7 @@
     border: 2px solid black;
     background-color: white;
     width: 18cm;
-    height: 37cm;
+    height: 39cm;
     border-top-right-radius: 20px;
     border-bottom-right-radius: 20px;
 }
